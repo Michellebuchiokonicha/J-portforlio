@@ -1,0 +1,24 @@
+{
+  "name": "jon_portforlio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "postcss-loader": "^8.1.1",
+    "tailwindcss": "^3.4.1"
+  }
+}
